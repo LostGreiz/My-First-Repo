@@ -58,7 +58,7 @@ body{
     resize: none;
 }
 
-
+/**button design ***********/
 .calculator_button{
     display: flex;
     flex-direction:row;
@@ -69,6 +69,7 @@ body{
     flex-direction: row;
 }
 
+/*** button size all  using multiple classes ****/
 .calculator_button_FixedSize_Top,
 .calculator_button_Fixedsize_Number,
 .calculator_button_FixedSize_bottom,
